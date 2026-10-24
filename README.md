@@ -132,7 +132,7 @@ An IoT-based smart trash bin prototype using ESP32, ultrasonic sensors, servo mo
 </a>
 
 <a href="https://www.tiktok.com/@adtzen">
-<img src="https://img.shields.io/badge/TikTok-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
 </a>
 
 </div>
