@@ -111,7 +111,7 @@ An IoT-based smart trash bin prototype using ESP32, ultrasonic sensors, servo mo
 
 **Tech:** ESP32 · MQTT · Arduino · IoT
 
-> Replace the project descriptions and repository links with the actual versions you want to showcase.
+> 💡 Learn continuously. Build creatively. Innovate fearlessly.
 
 ---
 
