@@ -5,10 +5,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090f,50:6d28d9,100:06b6d4&text=Aditya%20Iman%20Maulana&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Informatics%20Engineering%20Student%20%7C%20Web%20Developer&descAlignY=58&descSize=15" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090f,50:6d28d9,100:06b6d4&text=Aditya%20Iman%20Maulana&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Informatics%20Engineering%20Student%20%7C%20Software%20Engineer&descAlignY=58&descSize=15" width="100%" />
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Frontend+Developer+in+Progress;Building+Ideas+Into+Reality;Code.+Learn.+Build.+Repeat." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Software+Engineer+in+Progress;Building+Ideas+Into+Reality;Code.+Learn.+Build.+Repeat." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -16,7 +16,7 @@
 <a href="https://github.com/Ditt-Maulana">
 <img src="https://img.shields.io/badge/GitHub-Ditt--Maulana-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<img src="https://img.shields.io/badge/Focus-Web%20Development-7C3AED?style=for-the-badge&logo=code&logoColor=white" />
+<img src="https://img.shields.io/badge/Focus-Software%20Development-7C3AED?style=for-the-badge&logo=code&logoColor=white" />
 <img src="https://img.shields.io/badge/Status-Learning-06B6D4?style=for-the-badge&logo=bookstack&logoColor=white" />
 
 </div>
@@ -26,7 +26,7 @@
 ## 👨‍💻 About Me
 
 ```javascript
-const aditya = {
+const me = {
     name: "Aditya Iman Maulana",
     username: "Ditt-Maulana",
     education: "Informatics Engineering Student",
@@ -35,19 +35,24 @@ const aditya = {
         "Frontend Development",
         "Software Engineering",
         "Internet of Things"
+        "Mobile Development"
+
     ],
-    currentlyLearning: ["React", "Next.js", "TypeScript"],
+    currentlyLearning: ["React", "Next.js", "TypeScript", "HTML5", "CSS", "JavaScript", "Flutter", "C++", "Arduino"],
     motto: "Turning ideas into code."
 };
 
 console.log("Hello, World! 🚀");
 ```
 
+
 - 🎓 Informatics Engineering student at **Universitas Dian Nuswantoro**.
-- 💻 Interested in building modern, responsive, and user-friendly websites.
-- 🚀 Exploring web technologies and software development.
-- 🔌 Experienced in experimenting with IoT projects using ESP32 and MQTT.
+- 💻 Interested in **Web Development** and **Frontend Development**.
+- 📱 Exploring **Mobile Application Development**.
+- 🚀 Learning to build modern websites and cross-platform mobile apps.
+- 🔌 Exploring **Internet of Things (IoT)** using ESP32 and MQTT.
 - 🌱 Always learning, building, and improving my skills.
+-
 
 ---
 
@@ -70,6 +75,10 @@ console.log("Hello, World! 🚀");
 ### IoT & Embedded Systems
 
 <img src="https://skillicons.dev/icons?i=arduino&theme=dark" />
+
+### 📱 Mobile Development
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio&theme=dark" />
 
 </div>
 
