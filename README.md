@@ -34,7 +34,7 @@ const me = {
         "Web Development",
         "Frontend Development",
         "Software Engineering",
-        "Internet of Things"
+        "Internet of Things",
         "Mobile Development"
 
     ],
