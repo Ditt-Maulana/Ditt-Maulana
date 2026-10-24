@@ -101,28 +101,189 @@ console.log("Hello, World! 🚀");
 ---
 
 ## 🚀 Featured Projects
+🚀 Featured Projects
 
-<div align="center">
+🌐 1. Personal Portfolio Website
 
-<a href="https://github.com/Ditt-Maulana/Personal-Portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ditt-Maulana&repo=Personal-Portfolio&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF&icon_color=06B6D4" />
-</a>
+A modern personal portfolio showcasing my profile, technical skills, projects, and development journey as a web developer.
 
-</div>
+Key Features
 
-### 🔹 Personal Portfolio Website
-A personal portfolio showcasing my profile, skills, projects, and journey as a developer.
+- 🌑 Dark theme with fuchsia accents
+- 📱 Responsive layout
+- ✨ Smooth animations and transitions
+- 💼 Sections for profile, skills, and projects
 
-**Tech:** HTML · CSS · JavaScript · Responsive Design
+Tech Stack: Next.js, TypeScript, Tailwind CSS, Framer Motion
 
-### 🔹 Smart Trash Bin IoT
-An IoT-based smart trash bin prototype using ESP32, ultrasonic sensors, servo motor, and MQTT communication.
-
-**Tech:** ESP32 · MQTT · Arduino · IoT
-
-> 💡 Learn continuously. Build creatively. Innovate fearlessly.
+- Live Demo: "Visit Portfolio" (https://personal-portfolio-19zw.vercel.app/)
+- Repository: "Personal-Portfolio" (https://github.com/Ditt-Maulana/Personal-Portfolio)
 
 ---
+
+🚘 2. Nusantara Motors
+
+A car showroom website featuring a dynamic vehicle catalog, interactive shopping interfaces, and API integration.
+
+Key Features
+
+- 🚗 Dynamic car catalog
+- 🔍 Search, filtering, and sorting
+- ❤️ Wishlist
+- 💰 Credit simulation
+- 🛒 Shopping cart and checkout interface
+- 🔄 Trade-in information
+- ❓ FAQ and showroom contact information
+- 💬 WhatsApp contact
+- 🌙 Dark and light themes
+- 🔌 Vehicle data integration using Fetch API
+
+Tech Stack: HTML5, CSS3, Vanilla JavaScript, Fetch API
+
+- Live Demo: "Nusantara Motors" (https://ta-btng.vercel.app/)
+- Repository: "BTNG-Frontend-AdityaImanMaulana" (https://github.com/Ditt-Maulana/BTNG-Frontend-AdityaImanMaulana)
+
+---
+
+♻️ 3. Smart Trash Bin IoT
+
+An IoT-based smart trash bin project using ESP32, an ultrasonic sensor, and MQTT communication for automated lid control and remote monitoring.
+
+Key Features
+
+- 📡 Ultrasonic distance detection
+- ⚙️ Automatic lid control using a servo motor
+- 🔔 Buzzer and LED indicators
+- 🔌 MQTT-based communication
+- 📊 Real-time monitoring dashboard
+- 📈 Historical readings and analytics
+- 🎮 Manual control and operating modes
+- 🧪 Wokwi hardware simulation
+
+Tech Stack: ESP32, Arduino, C++, MQTT, Ultrasonic Sensor, Servo Motor
+
+- Dashboard: "Smart Trash Bin Dashboard" (https://smart-trash-dashboard.vercel.app/)
+- Simulation: "Open Wokwi Project" (https://wokwi.com/projects/469016552646290433)
+
+---
+
+📈 4. Forex-Predict
+
+An XAU/USD market analysis and forex prediction dashboard designed to explore market information and present financial insights through a web application.
+
+Key Focus
+
+- 📊 XAU/USD market analysis
+- 📈 Exploration of price movements and market trends
+- 🧠 Data-driven market analysis concepts
+- 💻 Interactive financial dashboard
+
+Tech Stack: Vite, TypeScript, Firebase-related configuration
+
+- Live Demo: "Forex-Predict" (https://forex-predict-two.vercel.app/)
+- Repository: "Forex-Predict" (https://github.com/Ditt-Maulana/Forex-Predict)
+
+---
+
+🎯 5. Simulasi Fisika GLBB
+
+An interactive physics simulation project for exploring motion and understanding the relationship between velocity, acceleration, and time.
+
+Key Focus
+
+- 📐 Interactive physics simulation
+- 🧮 Motion calculations
+- 📊 Visual representation of physical motion
+- 🎮 Interactive learning experience
+
+Tech Stack: React, TypeScript, Vite, Tailwind CSS
+
+- Live Demo: "Simulasi Fisika GLBB" (https://simulasi-fisika-glbb.vercel.app/)
+- Repository: "simulasi-fisika-GLBB" (https://github.com/Ditt-Maulana/simulasi-fisika-GLBB)
+
+---
+
+🏹 6. Enhanced Projectile Motion Simulation
+
+An interactive 2D projectile motion simulator exploring trajectory, gravity, and linear air resistance.
+
+Key Features
+
+- 🎯 2D projectile trajectory visualization
+- 🌍 Gravity simulation
+- 💨 Linear air resistance
+- 🧮 Semi-Implicit Euler and RK4 numerical integration
+- 📐 Analytical trajectory without air resistance
+- 📈 Real-time trajectory visualization
+- 📊 Position, velocity, range, maximum height, and flight-time information
+
+Tech Stack: HTML5, CSS, JavaScript, HTML5 Canvas
+
+- Live Demo: "Try the Parabola Simulation" (https://parabola-lemon.vercel.app/)
+- Repository: "parabola" (https://github.com/Ditt-Maulana/parabola)
+
+---
+
+👟 7. Shoes Store App
+
+A Flutter-based shoe shopping application interface for exploring product catalogs and mobile application UI development.
+
+Key Features
+
+- 🔐 Login and registration interfaces
+- 👟 Product catalog
+- 🔍 Product search and category filtering
+- 🔔 Notification interface
+- 👤 Profile and settings
+- 📱 Bottom navigation
+
+Tech Stack: Flutter, Dart, Material Design
+
+- Repository: "shoes-store-app" (https://github.com/Ditt-Maulana/shoes-store-app)
+
+---
+
+🪪 8. Formulir Pendaftaran
+
+A web-based registration form project that presents submitted information as a digital identity card with interactive visual effects.
+
+Key Features
+
+- 📝 Registration form and input validation
+- 🪪 Digital identity card
+- 🖼️ Photo upload and image URL support
+- ✨ 3D tilt and shine effects
+- 🎨 Animated visual elements
+- 📱 Responsive layout
+
+Tech Stack: HTML5, CSS3, Vanilla JavaScript, Tailwind CSS, AOS, GSAP, ScrollTrigger, Vanilla Tilt
+
+- Live Demo: "Formulir Pendaftaran" (https://formulir-pendaftaran-sand.vercel.app/)
+- Repository: "formulir-pendaftaran" (https://github.com/Ditt-Maulana/formulir-pendaftaran)
+
+---
+
+🏫 9. Web Class — XII AKL 1
+
+A class website project providing an online space for class-related information.
+
+Key Focus
+
+- 🏫 Class information website
+
+- 🌐 Online deployment
+
+- 📱 Browser-accessible interface
+
+- Live Demo: "Web Class — XII AKL 1" (https://web-class-akl1.vercel.app/)
+
+- Vercel Dashboard: "Manage Deployment" (https://vercel.com/ditt-maulanas-projects/web-class-akl1)
+
+---
+
+<p align="center">
+  <i>Building projects, exploring ideas, and learning through code. 🚀</i>
+</p>
 
 ## 🌐 Connect With Me
 
