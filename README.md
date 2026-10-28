@@ -121,27 +121,26 @@ Tech Stack: Next.js, TypeScript, Tailwind CSS, Framer Motion
 
 ---
 
-🚘 2. Nusantara Motors
+### 2. 🚘 Nusantara Motors — Full-Stack Project
 
-A car showroom website featuring a dynamic vehicle catalog, interactive shopping interfaces, and API integration.
+An automotive showroom platform with an interactive vehicle catalog and a backend REST API.
 
-Key Features
+**Frontend**
+- Dynamic car catalog with search, filtering, and sorting.
+- Wishlist, credit simulation, shopping cart, and checkout interface.
+- Trade-in information, FAQ, WhatsApp contact, and theme switching.
+- **Tech Stack:** HTML, CSS, JavaScript, Fetch API.
+- **Live Demo:** [Nusantara Motors](https://ta-btng.vercel.app/)
+- **Frontend Repository:** [BTNG Frontend](https://github.com/Ditt-Maulana/BTNG-Frontend-AdityaImanMaulana)
 
-- 🚗 Dynamic car catalog
-- 🔍 Search, filtering, and sorting
-- ❤️ Wishlist
-- 💰 Credit simulation
-- 🛒 Shopping cart and checkout interface
-- 🔄 Trade-in information
-- ❓ FAQ and showroom contact information
-- 💬 WhatsApp contact
-- 🌙 Dark and light themes
-- 🔌 Vehicle data integration using Fetch API
-
-Tech Stack: HTML5, CSS3, Vanilla JavaScript, Fetch API
-
-- Live Demo: "Nusantara Motors" (https://ta-btng.vercel.app/)
-- Repository: "BTNG-Frontend-AdityaImanMaulana" (https://github.com/Ditt-Maulana/BTNG-Frontend-AdityaImanMaulana)
+**Backend API**
+- REST API for managing car data.
+- CRUD operations: list, create, view details, update, and delete.
+- API endpoint documentation using OpenAPI.
+- **Tech Stack:** Laravel 12, PHP, RESTful API, OpenAPI, Clever Cloud.
+- **Backend Repository:** [BTNG Backend](https://github.com/Ditt-Maulana/BTNG-Backend-AdityaImanMaulana)
+- **Live API:** [Open API](https://app-fbab5e92-fb8e-4f4a-8010-233fa7a39791.cleverapps.io)
+- **API Documentation:** [View Documentation](https://app-fbab5e92-fb8e-4f4a-8010-233fa7a39791.cleverapps.io/docs/api)
 
 ---
 
